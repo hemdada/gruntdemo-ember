@@ -1,0 +1,1 @@
+.navigation-items ul{position:absolute;list-style:none;top:40px;text-align:center}.navigation-items ul li{height:30px;padding:5px 5px 0px 5px;width:110px}.navigation-items ul li:hover{background-color:#6ec3c7}.navigation-items ul li.selected{background-color:#0bc2c7}.navigation-sections{width:900px;height:400px;margin-right:165px;overflow-y:scroll;float:right}
